@@ -1,0 +1,5 @@
+[core]
+    remote = bucket
+['remote "bucket"']
+    url = s3://tfm-storage/models
+    region = us-east-2

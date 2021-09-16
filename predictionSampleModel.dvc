@@ -1,0 +1,5 @@
+outs:
+- md5: f005418c548c50bf513fec618a56f82c.dir
+  size: 2250
+  nfiles: 1
+  path: predictionSampleModel
